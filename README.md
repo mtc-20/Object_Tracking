@@ -18,7 +18,9 @@ OpenCV has about 7 different object tracking algorithms, the accessibility to wh
 ## GOTURN Object Tracker
 GOTURN is a deep learning based object tracker, that is also available on OpenCV. For more info about the model as well as the trained model files, check out [Satya Mallick's guide][locv].
 
-[GOTURN Script][2]
+Model - [Dropbox link](https://www.dropbox.com/sh/77frbrkmf9ojfm6/AACgY7-wSfj-LIyYcOgUSZ0Ua?dl=0)
+
+Script - [GOTURN tracking][2]
 
 **Notes:**
 - *The model fails/seems to break for objects or feed that the model was not trained for*
